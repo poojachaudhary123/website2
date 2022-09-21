@@ -1,0 +1,11 @@
+.banner{
+    background: url(../img/bg-1.jpeg);
+    height: 67vh;
+    background-size: cover;
+}
+.banner-two{
+    background-color: #EAE2D8;
+}
+.footer{
+    background-color: #E9E2D8;
+}
